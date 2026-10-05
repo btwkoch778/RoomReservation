@@ -1,0 +1,10 @@
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\bin\Debug\RoomReservation.exe.config
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\bin\Debug\RoomReservation.exe
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\bin\Debug\RoomReservation.pdb
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\obj\Debug\RoomReservation.csproj.AssemblyReference.cache
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\obj\Debug\RoomReservation.Form1.resources
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\obj\Debug\RoomReservation.Properties.Resources.resources
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\obj\Debug\RoomReservation.csproj.GenerateResource.cache
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\obj\Debug\RoomReservation.csproj.CoreCompileInputs.cache
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\obj\Debug\RoomReservation.exe
+C:\Users\ewez\Desktop\github\RoomReservation\RoomReservation\obj\Debug\RoomReservation.pdb
